@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "مطعم ومعجنات الضيعة",
+    "slug": "aldiaa-restaurant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F7F2EC"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aldiaa.restaurant"
+    },
+    "android": {
+      "package": "com.aldiaa.restaurant"
+    },
+    "plugins": []
+  }
+}
